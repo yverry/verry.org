@@ -4,6 +4,8 @@ weight: 4
 header_menu: false
 ---
 
+GPG: [92B8416C](92B8416C)
+
 E-Mail: contact _at_ verry -dot- org
 
 [@yverry](https://twitter.com/yverry)
