@@ -1,0 +1,26 @@
+baseURL = "https://verry.org"
+languageCode = "en-us"
+title = "Yann Verry"
+theme = "hugo-scroll"
+
+[params]
+    # A "copyright"-line to be added at the bottom of the page.
+    # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+    copyright = "copyleft Yann Verry"
+
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Yann Verry @ Home"
+
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    favicon = "images/favicon.png"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and
+    # https://gohugo.io/templates/internal#open-graph.
+    images = ["images/20200517_174205.jpg"]
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "Yann Verry - home"
