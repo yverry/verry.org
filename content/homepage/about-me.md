@@ -8,5 +8,5 @@ header_menu: false
 
 ##### Professionel Experience
 
-Head of Infrastructure & Operations at [bedrock](https://bedrockstreaming.com). Scaling, automatisation, webperf is my challenge.
+Head of Infrastructure & Operations at [bedrock](https://bedrockstreaming.com). Scaling, automatisation, webperf is my challenge in OTT area.
 15+ years of XP in web company.
